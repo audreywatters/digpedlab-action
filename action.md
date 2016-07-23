@@ -36,25 +36,25 @@
 <p>Introductions</p>
 <p><em>Theme: Verbs</em></p>
 <p>Discussion: What is &#8220;action&#8221;?</p>
-
+<br />
 
 <p>Tuesday</p>
 <p><em>Theme: Numbers vs Stories</em></p>
 <p>Discussion: Why/how does our culture privilege &#8220;building&#8221; and &#8220;making&#8221; as &#8220;action&#8221;? Our Nate Silver problem: Why/how does our culture privilege quantitative data?</p>
 <p>Tech Projects: A Domain of One's Own, Intro to GitHub</p>
-
+<br />
 
 <p>Wednesday</p>
 <p><em>Theme: Arguments in Public</em></p>
 <p>Discussion: The assignment as &#8220;action&#8221;</p>
 <p>Tech Projects: Updating Wikipedia; Getting Published</p>
-
+<br />
 
 <p>Thursday</p>
 <p><em>Theme: Protest</em></p>
 <p>Discussion: The Protest Bot</p>
 <p>Tech Project: Build a Bot</p>
-
+<br />
 
 <p>Friday</p>
 <p><em>Theme: Hope</em></p>
