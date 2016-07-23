@@ -23,11 +23,11 @@
 <p><strong>Recommended Readings:</strong></p>
 
 <ul>
-<li>Yasmin Nair, &#8220;<a href="http://www.yasminnair.net/content/suey-park-and-afterlife-twitter-0">Suey Park and the Afterlife of Twitter</a>&#8221;</li>
-<li>Mark Sample, &#8220;<a href="https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.t53zm9my8">A protest bot is a bot so specific you can&#8217;t mistake it for bullshit</a>&#8221;</li>
+<li>Yasmin Nair, "<a href="http://www.yasminnair.net/content/suey-park-and-afterlife-twitter-0">Suey Park and the Afterlife of Twitter</a>"</li>
+<li>Mark Sample, "<a href="https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.t53zm9my8">A protest bot is a bot so specific you can't mistake it for bullshit</a>"</li>
 <li>Rebecca Solnit, "<a href="https://www.theguardian.com/books/2016/jul/15/rebecca-solnit-hope-in-the-dark-new-essay-embrace-unknown">Hope is an embrace of the unknown</a>"</li>
 <li>Ivan Illich, excerpts from <em>Tools for Conviviality</em> (<a href="http://www.mom.arq.ufmg.br/mom/arq_interface/3a_aula/illich_tools_for_conviviality.pdf">PDF</a>)</li>
-<li>Deb Chachra, "<a href="http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/">Why I Am Not a Maker</li>"
+<li>Deb Chachra, "<a href="http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/">Why I Am Not a Maker</a>"</li>
 </ul>
 
 <p><strong>Tentative Schedule:</strong></p>
