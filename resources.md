@@ -41,7 +41,9 @@
 
 <p><strong>How to Pitch and Publish:</strong></p>
 
-<p><a href="https://thethinkingwriter.wordpress.com/">The Thinking Writer</a> ($)</p>
+<ul>
+<li><a href="https://thethinkingwriter.wordpress.com/">The Thinking Writer</a> ($)</li>
+</ul>
 
 <p><strong>How to Open Data:</strong></p>
 
