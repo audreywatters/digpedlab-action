@@ -6,6 +6,7 @@
 <li>Jekyll <a href="http://jekyllrb.com/">documentation</a></li>
 <li><a href="http://jekyllthemes.org/">Jekyll Themes</a></li>
 <li><a href="https://blog.timowens.io/running-a-jekyll-site-on-reclaim-hosting/">Running a Jekyll Site on Reclaim Hosting</a></li>
+<li><a href="http://docs.reclaimhosting.com/domain-management/domain-mapping-to-custom-dns-records">Domain Mapping to Custom DNS Records</a> (on Reclaim Hosting)</li>
 </ul>
 
 <p><strong>How to Markdown:</strong></p>
@@ -44,6 +45,7 @@
 
 <ul>
 <li><a href="https://thethinkingwriter.wordpress.com/">The Thinking Writer</a> ($)</li>
+<li><a href="http://whopayswriters.com/#/results">Who Pays Writers</a></li>
 </ul>
 
 <p><strong>How to Open Data:</strong></p>
