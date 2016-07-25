@@ -5,6 +5,7 @@
 <ul>
 <li>Jekyll <a href="http://jekyllrb.com/">documentation</a></li>
 <li><a href="http://jekyllthemes.org/">Jekyll Themes</a></li>
+<li><a href="https://blog.timowens.io/running-a-jekyll-site-on-reclaim-hosting/">Running a Jekyll Site on Reclaim Hosting</a></li>
 </ul>
 
 <p><strong>How to Markdown:</strong></p>
