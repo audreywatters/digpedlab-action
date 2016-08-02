@@ -34,6 +34,7 @@
 <li><a href="http://jitp.commons.gc.cuny.edu/make-a-twitter-bot-in-python-iterative-code-examples/">Make a Twitter Bot in Python: Iterative Code Examples</a></li>
 <li><a href="https://medium.com/the-mission/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa#.p5wedmx73">How I turned my resume into a bot. (And how you can too!)</a></li>
 <li><a href="https://botwiki.org/tutorials/twitterbots/">Tutorials for Twitter Bots</a></li>
+<li><a href="http://tinysubversions.com/2013/09/how-to-make-a-twitter-bot/">How to Make a Twitter Bot</a></li>
 </ul>
 
 <p><strong>How to Wikipedia:</strong></p>
