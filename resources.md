@@ -48,6 +48,13 @@
 <li><a href="http://whopayswriters.com/#/results">Who Pays Writers</a></li>
 </ul>
 
+<p><strong>How to FOIA:</strong></p>
+
+<ul>
+<li><a href="https://www.justice.gov/oip/doj-guide-freedom-information-act">DOJ Guide to the Freedom of Information Act</a></li>
+<li><a href="http://guides.nyu.edu/c.php?g=276693&p=1845589">Journalism: FOIA and FOIL</a></li>
+</ul>
+
 <p><strong>How to Open Data:</strong></p>
 
 <ul>
