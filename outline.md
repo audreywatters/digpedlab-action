@@ -47,7 +47,7 @@
 <p>Wednesday</p>
 <p><em>Theme: Arguments in Public</em></p>
 <p>Discussion: The assignment as &#8220;action&#8221;</p>
-<p>Tech Projects: Updating Wikipedia; Getting Published</p>
+<p>Tech Projects: Updating Wikipedia; Getting Published; Scraping Data; Submitting a FOIA Request</p>
 <br />
 
 <p>Thursday</p>
