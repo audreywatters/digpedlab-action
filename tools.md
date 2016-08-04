@@ -16,6 +16,7 @@
 <ul>
 <li><a href="https://www.eff.org/privacybadger">Privacy Badger</a></li>
 <li><a href="https://github.com/gorhill/uBlock">uBlock Origin</a></li>
+<li><a href="https://panopticlick.eff.org">Panopticlick</a></li>
 <li><a href="https://www.charlesproxy.com/">Charles</a></li>
 <li><a href="https://www.torproject.org/">Tor</a></li>
 <li>a VPN</li>
