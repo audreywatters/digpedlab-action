@@ -19,5 +19,6 @@
 <li><a href="https://panopticlick.eff.org">Panopticlick</a></li>
 <li><a href="https://www.charlesproxy.com/">Charles</a></li>
 <li><a href="https://www.torproject.org/">Tor</a></li>
+<li><a href="https://whispersystems.org/">Signal</a></li>
 <li>a VPN</li>
 </ul>
