@@ -4,6 +4,7 @@
 
 <ul>
 <li><a href="https://tosdr.org/">Terms of Service; Didn't Read</a></li>
+<li><a href="http://privacybychoice.github.io/">Privacy Policies, Shared Openly</a></li>
 <li><a href="https://ssd.eff.org/">Surveillance Self-Defence</a></li>
 <li><a href="https://firstpartysimulator.net/">Panopticlick</a></li>
 <li><a href="https://www.eff.org/privacybadger">Privacy Badger</a></li>
