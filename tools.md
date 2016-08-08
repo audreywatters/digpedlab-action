@@ -13,12 +13,3 @@
 
 <p>These are some of the tools that we used to demonstrate privacy (or rather, the lack of privacy) and tech:</p>
 
-<ul>
-<li><a href="https://www.eff.org/privacybadger">Privacy Badger</a></li>
-<li><a href="https://github.com/gorhill/uBlock">uBlock Origin</a></li>
-<li><a href="https://panopticlick.eff.org">Panopticlick</a></li>
-<li><a href="https://www.charlesproxy.com/">Charles</a></li>
-<li><a href="https://www.torproject.org/">Tor</a></li>
-<li><a href="https://whispersystems.org/">Signal</a></li>
-<li>a VPN</li>
-</ul>
