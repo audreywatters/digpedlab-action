@@ -13,3 +13,7 @@
 
 <p>These are some of the tools that we used to demonstrate privacy (or rather, the lack of privacy) and tech:</p>
 
+<ul>
+<li><a href="https://github.com/audreywatters/digpedlab-action/blob/master/privacy.md">link to file in GitHub repo</a></li>
+</ul>
+
