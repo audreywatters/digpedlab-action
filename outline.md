@@ -12,7 +12,7 @@
 
 <p><strong>Questions and Provocations:</strong></p>
 
-<p>How do we privilege &#8220;action&#8221;? How do we privilege &#8220;technological expertise&#8221; and/as action? What types of actions &#8220;count&#8221;?</p>
+<p>How do we privilege &#8220;action&#8221;? (When and from whom do we condemn it?) How do we privilege &#8220;technological expertise&#8221; and/as action? What types of actions &#8220;count&#8221;?</p>
 
 <p>Many of the topics for this track involve exploring various digital technologies, but the track assumes that participants have <u>zero background or previous experience</u> working with them. Indeed, one of the areas this class will repeatedly explore is how our ability to &#8220;take action&#8221; or even &#8220;see action&#8221; might change depending on our familiarity, expertise, and/or reluctance to use certain tools. The point of introducing and playing with these various technologies is not mastery; rather it&#8217;s to think critically about what actions they afford and what they constrain &#8211; in the classroom and beyond.</p>
 
