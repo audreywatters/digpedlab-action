@@ -1,5 +1,11 @@
 <h3>Resources</h3>
 
+<p><strong>How to Web:</strong></p>
+
+<ul>
+<li><a href="https://audreywatters.github.io/web-101/">Web 101</a>
+</ul>
+
 <p><strong>How to Jekyll:</strong></p>
 
 <ul>
