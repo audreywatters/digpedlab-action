@@ -17,3 +17,5 @@
 <li><a href="https://github.com/audreywatters/digpedlab-action/blob/master/privacy.md">link to file in GitHub repo</a></li>
 </ul>
 
+<p><a href="https://docs.google.com/document/d/11ZLPpiZbACexUkTUje-Kyin-dWOTehitsVRb_K_yKMM/edit?usp=sharing">Here are the tools</a> that Cathy Davidson listed during our brainstorming session on apps and privacy.</p>
+
