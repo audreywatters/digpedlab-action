@@ -70,5 +70,21 @@
 <ul>
 <li><a href="http://adopta.agency/">Adopt-a Agency</a></li>
 <li><a href="https://scraperwiki.com/">Scraper Wiki</a></li>
+<li><a href="https://www.import.io/">Import.io</a></li>
 <li><a href="http://kinlane.github.io/csv-converter/">CSV to JSON converter</a></li>
+<li><a href="https://www.data.gov/">Data.gov</a></li>
+<li><a href="https://www.rstudio.com/products/rstudio/">R Studio</a></li>
+</ul>
+
+<p><strong>How to Terms of Service:</strong></p>
+
+<ul>
+<li><a href="https://tosdr.org/">Terms of Service; Didn't Read</a></li>
+</ul>
+
+<p><strong>How to Community:</strong></p>
+<ul>
+<li><a href="http://metafilter.com">Metafilter</a></li>
+<li><a href="http://www.autcraft.com/">Autcraft</a></li>
+<li><a href="https://tacticaltech.org/">Tactical Tech</a></li>
 </ul>

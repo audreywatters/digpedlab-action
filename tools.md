@@ -7,7 +7,6 @@
 <li><a href="https://desktop.github.com/">GitHub Desktop</a></li>
 <li><a href="https://bywordapp.com/">Byword</a> ($) </li>
 <li><a href="https://blocktogether.org/">Block Together</a></li>
-<li><a href="https://gephi.org">Gephi</a></li>
 <li><a href="http://www.cyberghostvpn.com/en_us">CyberGhost</a> ($)</li>
 </ul>
 
